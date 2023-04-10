@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//hemanta-dev.github.io/Wheather/static/css/main.33a7c287.css",
+    "main.js": "//hemanta-dev.github.io/Wheather/static/js/main.23aae68f.js",
+    "static/js/787.5f9c22ba.chunk.js": "//hemanta-dev.github.io/Wheather/static/js/787.5f9c22ba.chunk.js",
+    "index.html": "//hemanta-dev.github.io/Wheather/index.html",
+    "main.33a7c287.css.map": "//hemanta-dev.github.io/Wheather/static/css/main.33a7c287.css.map",
+    "main.23aae68f.js.map": "//hemanta-dev.github.io/Wheather/static/js/main.23aae68f.js.map",
+    "787.5f9c22ba.chunk.js.map": "//hemanta-dev.github.io/Wheather/static/js/787.5f9c22ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33a7c287.css",
+    "static/js/main.23aae68f.js"
+  ]
+}
